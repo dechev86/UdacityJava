@@ -6,7 +6,7 @@ public class PrintAndPrintln
 {
     public static void main(String[] args)
     {
-        System.out.print("one" );
-        System.out.println("two" );
+        System.out.print(  );
+        System.out.println(  );
     }
 }
